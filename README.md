@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on HR platform.
 - 🌱 I’m currently learning Frontend Testing.
 - 📫 How to reach me: @rachel-park-dev | borapark13@gmail.com
 - ⚡ Fun fact: 🏃‍♀️, 🍞
 
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [프론트엔드 테스트 - &lpar;3&rpar; React Testing Library 실습 &lpar;feat. TDD&rpar;](https://rachelslab.tistory.com/175)
