@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "type": "module",
   "description": "<!-- **rachel-park-dev/rachel-park-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
-  "main": "index.js",
+  "main": "readmeUpdate.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachel-park-dev/rachel-park-dev.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "rachel-park",
   "license": "ISC",
   "dependencies": {
     "rss-parser": "^3.13.0"
