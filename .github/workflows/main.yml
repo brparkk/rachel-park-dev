@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Update README
-        run: npm start
+        run: npm run start
       - name: Commit README
         run: |
           git add .
